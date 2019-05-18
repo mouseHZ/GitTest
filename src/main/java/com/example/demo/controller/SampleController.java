@@ -4,8 +4,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * idea web测试
- * @Author: mouse
- * @Date: 2019-05-19 00:48
+ * @author: mouse
+ * @date: 2019-05-19 00:48
  */
 @RestController
 public class SampleController {
